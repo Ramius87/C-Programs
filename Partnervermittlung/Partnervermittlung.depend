@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498557652 source:x:\github\c-programs\partnervermittlung\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

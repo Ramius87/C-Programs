@@ -7,7 +7,7 @@ int main()
 
     char name[20];
     char vorname[20];
-    char geburtsdatum[10];
+    char geburtsdatum[12];
     char geburtsort[20];
 
     printf("Nachname: ");
@@ -20,7 +20,7 @@ int main()
     gets(geburtsort);
 
     printf("\n\nNachname: %s", name);
-    printf("\n\Vorname: %s", vorname);
+    printf("\nVorname: %s", vorname);
     printf("\nGeburtsdatum: %s", geburtsdatum);
     printf("\nGeburtsort: %s", geburtsort);
 
