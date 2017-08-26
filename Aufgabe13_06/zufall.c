@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 #define FAKTOR 25173UL
 #define INCR   13849UL
 #define MODULO 65536UL

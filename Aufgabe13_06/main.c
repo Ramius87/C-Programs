@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "zufall.c"
 
 /* Prototypen */
 extern void SetSeed(unsigned int seed);

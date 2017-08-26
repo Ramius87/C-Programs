@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
-1503683374 source:x:\github\c-programs\aufgabe13_06\main.c
+1503731560 source:x:\github\c-programs\aufgabe13_06\main.c
 	<stdio.h>
 	<stdlib.h>
+
+1503731100 x:\github\c-programs\aufgabe13_06\zufall.c
+
+1503731100 source:x:\github\c-programs\aufgabe13_06\zufall.c
 

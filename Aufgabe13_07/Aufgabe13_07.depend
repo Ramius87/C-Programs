@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1503762098 source:x:\github\c-programs\aufgabe13_07\main.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1503761934 x:\github\c-programs\aufgabe13_07\boolean.h
+
