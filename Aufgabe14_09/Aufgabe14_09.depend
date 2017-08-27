@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1503832192 source:x:\github\c-programs\aufgabe14_09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aktenstapel.h"
+
+1503832261 x:\github\c-programs\aufgabe14_09\aktenstapel.h
+
+1503832684 source:x:\github\c-programs\aufgabe14_09\aktenstapel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aktenstapel.h"
+
