@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504204458 source:x:\github\c-programs\aufgabe14_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"telefonbuch.h"
+
+1504204311 source:x:\github\c-programs\aufgabe14_11\telefonbuch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"telefonbuch.h"
+
+1504202990 x:\github\c-programs\aufgabe14_11\telefonbuch.h
+

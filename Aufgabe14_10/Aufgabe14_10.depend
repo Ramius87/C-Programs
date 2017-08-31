@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504202602 source:x:\github\c-programs\aufgabe14_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"patienten.h"
+
+1504202466 source:x:\github\c-programs\aufgabe14_10\patienten.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"patienten.h"
+
+1504201204 x:\github\c-programs\aufgabe14_10\patienten.h
+
