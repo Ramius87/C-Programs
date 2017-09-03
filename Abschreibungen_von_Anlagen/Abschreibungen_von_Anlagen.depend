@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504461379 source:x:\github\c-programs\abschreibungen_von_anlagen\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
